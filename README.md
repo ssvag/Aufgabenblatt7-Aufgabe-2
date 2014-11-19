@@ -1,4 +1,3 @@
-Readmes
 =======
 #Titel 1
 
@@ -8,11 +7,10 @@ Readmes
 3. Item 3
 
 **Tabelle:**
-| die | tabelle | ist | hier | abc |
-|-----|---------|-----|------|-----|
-|     |         |     |      |     |
-|     |         |     |      |     |
-|     |         |     |      |     |
+Erstens       | Zweitens
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 *Kursiv*
 **Fett**
