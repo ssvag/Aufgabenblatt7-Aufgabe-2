@@ -1,4 +1,4 @@
-Simon S.
+*Simon S.*
 =======
 #Titel 1
 
@@ -8,11 +8,10 @@ Simon S.
 * Item 3
 
 **Tabelle:**
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Day     | Meal    | Price |
+| --------|---------|-------|
+| Monday  | pasta   | $6    |
+| Tuesday | chicken | $8    |
 
 *Kursiv*
 **Fett**
