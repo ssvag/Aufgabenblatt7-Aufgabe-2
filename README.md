@@ -13,5 +13,11 @@
 | Monday  | pasta   | $6    |
 | Tuesday | chicken | $8    |
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 *Kursiv*
 **Fett**
