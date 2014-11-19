@@ -7,7 +7,7 @@
 * Item 2
 * Item 3
 
-**Tabelle:**
+**Tabellen:**
 | Day     | Meal    | Price |
 | --------|---------|-------|
 | Monday  | pasta   | $6    |
