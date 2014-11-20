@@ -7,17 +7,13 @@
 * Item 2
 * Item 3
 
-**Tabellen:**
-| Day     | Meal    | Price |
-| :-------|:-------:| -----:|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+**Tabelle:**
 
  <table style="width:100%">
   <tr>
-    <td>A</td>
-    <td>B</td>
-    <td>C</td>
+    <td>**Zeile A**</td>
+    <td>**Zeile B**</td>
+    <td>**Zeile C**</td>
   </tr>
   <tr>
     <td>D</td>
